@@ -1,0 +1,26 @@
+{
+  "name": "full-stack-diaries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohaigt86/full-stack-diaries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohaigt86/full-stack-diaries/issues"
+  },
+  "homepage": "https://github.com/bohaigt86/full-stack-diaries#readme",
+  "dependencies": {
+    "node": "^13.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
