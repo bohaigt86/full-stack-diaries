@@ -19,7 +19,7 @@ console.log(typeof Symbol()); // symbol
 console.log(typeof function () {}); // function is a subtype of object
 console.log(typeof []); // object
 
-// how to separate null from object
+// how to tell null from object
 let a = null;
 console.log('a is null:', !a && typeof a === 'object');
 
